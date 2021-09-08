@@ -1,2 +1,5 @@
-# Spark-s-Foundation-Food-relief-Fund
-this is a food relief fund donation website
+# Payment_Gateway
+
+GRIP The Sparks Foundation July 2021 Batch Website with Payment Integration on Donate button.
+
+Using HTML + CSS +  Javascript create website and implement payment integration using Razorpay.
